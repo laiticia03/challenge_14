@@ -1,0 +1,10 @@
+.poke-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .poke-gallery .pokemon {
+    margin: 20px;
+  }

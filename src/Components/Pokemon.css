@@ -1,0 +1,23 @@
+.pokemon {
+    display: inline-block;
+    margin: 20px;
+    width: 150px;
+    text-align: center;
+  }
+  
+  .pokemon img {
+    width: 100%;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .pokemon h2 {
+    font-size: 18px;
+    margin-top: 10px;
+  }
+  
+  .pokemon p {
+    font-size: 14px;
+    color: #666;
+  }
